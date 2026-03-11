@@ -127,7 +127,7 @@ POST `/topicos`
 {
   "titulo": "Error con Spring Boot",
   "mensaje": "No puedo iniciar mi aplicación",
-  "autor": "Gaspar",
+  "autor": "Nombre",
   "curso": "Spring Boot"
 }
 ```
